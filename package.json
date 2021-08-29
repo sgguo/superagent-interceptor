@@ -1,0 +1,26 @@
+{
+  "name": "@sgguo/superagent-interceptor",
+  "version": "1.0.1",
+  "description": "Add funcitons as interceptors in superagent.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgguo/superagent-interceptor.git"
+  },
+  "keywords": [
+    "superagent",
+    "interceptor",
+    "middleware",
+    "ajax",
+    "request"
+  ],
+  "author": "Guo Shugang <sgguo@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sgguo/superagent-interceptor/issues"
+  },
+  "homepage": "https://github.com/sgguo/superagent-interceptor"
+}
